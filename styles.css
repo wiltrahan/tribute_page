@@ -1,0 +1,38 @@
+@import 'https://fonts.googleapis.com/css?family=Permanent+Marker';
+body{
+  background-color: #E0E0E0;
+}
+.header {
+  text-align: center;
+  font-family: "Permanent Marker", sans-serif;
+  color: #5FE010;
+  margin-top: 20px;
+  text-shadow: 1px 0px 1px rgba(150, 150, 150, 1);
+
+  background-image:          url("https://res.cloudinary.com/willyt23/image/upload/v1473887930/tribe2_tfqmws.jpg");
+  background-size: 100% 100%;
+}
+
+hr {
+    display: block;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    margin-left: auto;
+    margin-right: auto;
+    border-style: inset;
+    border-width: 1px;
+}
+.album-art {
+  margin-top: 15px;
+}
+h4 {
+  margin-top: 15px;
+}
+.footer {
+  background-color: #CFCFCF;
+
+}
+.footer-text {
+ font-size: 90%;
+
+}

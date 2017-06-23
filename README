@@ -1,0 +1,30 @@
+Tribute Page - Project Page
+***COMPLETE*** Include a header and image.
+***COMPLETE*** Include a link somewhere on the page that leads to an external page with more information on the item in question.
+must include at least 1 of each of the following items:
+H tag
+P tags
+UL or OL lists
+IMG tag
+A tag
+Additional Challenges
+All tags should have at least one class.
+Use an ID to overwrite the class given to a tag if it needs it's own styling.
+
+Bootstrap is not required.
+BootStrap challenges
+***COMPLETE*** If bootstrap is used you must do the following:
+Override some of the bootstrap css in order to personalize the page. DO NOT leave 100% pure bootstrap on your page. This can include different fonts colors padding Etc.
+Use the Grid system. Use the grid system in some way. Be creative.
+non Bootstrap Challenges
+Use Css to organize and shape the page. You should use the following css elements at some point:
+Padding
+Margin
+Font-size
+Font-family
+Color
+Background-color
+BONUS CSS Elements:
+Float
+:hover
+font-weight
